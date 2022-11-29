@@ -67,6 +67,7 @@ namespace ArrayHomework
             Console.WriteLine("\n214 - Bacasakan tarreri mijin tvabanakan");
             double sumMathMid = (double)sumBarray / countBarray;
             Console.WriteLine("bacasakan tarreri mijin tvabanakan: " + sumMathMid);
+
             Console.ReadLine();
         }
     }
