@@ -1,0 +1,8 @@
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\bin\Debug\ArrayHomework3.exe.config
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\bin\Debug\ArrayHomework3.exe
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\bin\Debug\ArrayHomework3.pdb
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\obj\Debug\ArrayHomework3.csproj.AssemblyReference.cache
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\obj\Debug\ArrayHomework3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\obj\Debug\ArrayHomework3.csproj.CoreCompileInputs.cache
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\obj\Debug\ArrayHomework3.exe
+C:\Users\Karen Harutyunyan\source\repos\New ArrayHomework\ArrayHomework3\obj\Debug\ArrayHomework3.pdb
